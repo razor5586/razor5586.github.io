@@ -2,7 +2,6 @@
 title: Tutorial
 ---
 
-<!--TODO screenshots screenshots screenshots ... -->
 #Goal of this tutorial
 In this tutorial you will learn some basics techniques for working with PADrend.
 In the first part we will load the first scene. 
